@@ -1,1 +1,0 @@
-# -Automated-Waste-Classification-and-Segregation-Using-Computer-Vision
